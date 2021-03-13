@@ -1,0 +1,3 @@
+- 💜 Hi, I’m @scyheidekamp 
+- 🦄 I’m interested in AI and synthetic media
+- 🔮 I’m currently learning python
