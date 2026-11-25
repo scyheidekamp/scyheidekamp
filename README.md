@@ -1,3 +1,3 @@
 - 💜 Hi, I’m @scyheidekamp 
 - 🦄 I’m interested in AI and Creative Technology
-- 🔮 I’m currently focused on data engineering in Health Care
+- 🔮 I’m currently focused on cybersecurity
